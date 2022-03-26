@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77e31f082ba6a2448bd0f2f02b54370a, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  Speed: 2
+  ColFood:
+  - MinFood: 2
+    MaxFood: 5
+    TypeFood: {fileID: 5120628680978334972, guid: d4997c9098be41f4fb49b0a6540f1b99,
+      type: 3}
+  - MinFood: 1
+    MaxFood: 3
+    TypeFood: {fileID: -9149657318337240675, guid: c3342d4ed7eb03b46a3d488372450e05,
+      type: 3}
+  - MinFood: 2
+    MaxFood: 6
+    TypeFood: {fileID: -3060620272893312579, guid: ea61bcaf3f3a34144801a737fe1da892,
+      type: 3}
+  ListFoods: {fileID: 11400000, guid: 10242d00a16ed5645b3944d51d3c7f87, type: 2}

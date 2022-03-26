@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef65f649a084dd045a1e6d0e7b0a5b0b, type: 3}
+  m_Name: ListFoodsL1
+  m_EditorClassIdentifier: 
+  foods:
+  - {fileID: 5120628680978334972, guid: d4997c9098be41f4fb49b0a6540f1b99, type: 3}
+  - {fileID: -3060620272893312579, guid: ea61bcaf3f3a34144801a737fe1da892, type: 3}
+  - {fileID: -9149657318337240675, guid: c3342d4ed7eb03b46a3d488372450e05, type: 3}
+  - {fileID: -8684508620920037222, guid: 9c025d560a2d1cd41890b14ca0f1ddd2, type: 3}
+  - {fileID: 1268434825773228660, guid: 94478cc74cbb7a7459fb9d9543d088a7, type: 3}
+  - {fileID: 7270031921586078697, guid: 408a4aa61accfc54c8b9ab4d61751c58, type: 3}
+  - {fileID: 5096827523922207507, guid: ca4bb2d4a0fd3d14d8c7d142f5167089, type: 3}
+  - {fileID: 4280113959976700928, guid: 1243aaabf699be645b06de06bed6e79c, type: 3}
+  - {fileID: 2627439844090738539, guid: 70cc913693f8c3d449bbb70e5e67c083, type: 3}
+  - {fileID: 6246959357294824405, guid: 9f552795fd31b4e48a5d95dafca10665, type: 3}
